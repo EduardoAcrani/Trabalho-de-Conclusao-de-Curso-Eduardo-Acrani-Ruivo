@@ -1,8 +1,7 @@
 # Trabalho de Conclusão de Curso - Ciência de Dados Aplicada para Manutenção Preditiva
 
-Projeto apresentado no Trabalho de Conclusão de Curso (TCC) de Eduardo Acrani Ruivo no curso de Engenharia de Controle e Automação da Universidade Feredal de Uberlândia (UFU), sob orientação do professor Dr. Josué Silva de Morais.
+Projeto apresentado no Trabalho de Conclusão de Curso (TCC) de [Eduardo Acrani Ruivo](https://www.linkedin.com/in/eduardo-acrani-ruivo-0219041b7/) no curso de Engenharia de Controle e Automação da Universidade Feredal de Uberlândia (UFU), sob orientação do professor Dr. Josué Silva de Morais.
 
-Link para o LinkdIn do Aluno: https://www.linkedin.com/in/eduardo-acrani-ruivo-0219041b7/
 Link para os dados: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/data
 
 ## Introdução 
